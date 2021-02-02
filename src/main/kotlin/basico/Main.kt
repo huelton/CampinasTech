@@ -1,5 +1,13 @@
 package basico
 
+
+
+
 fun main() {
-    println("Hello World Kotlin!")
+
+   var a = 2
+   val b = 2.3
+
+    println(a)
+
 }
