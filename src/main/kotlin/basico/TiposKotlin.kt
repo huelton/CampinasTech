@@ -1,6 +1,7 @@
 package basico
 
 fun main() {
+
     val num1: Byte = 127
     val num2: Short = 32767
     val num3: Int = 2_147_483_647
@@ -12,6 +13,9 @@ fun main() {
     val num7: Char = 'K'
     val num8 = true
     val num9: String = "Ola Mundo"
+
+    var num10: Any
+
     println(num8 is Boolean)
 
 }

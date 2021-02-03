@@ -1,8 +1,5 @@
 package basico
 
-
-
-
 fun main() {
 
    var a = 2
