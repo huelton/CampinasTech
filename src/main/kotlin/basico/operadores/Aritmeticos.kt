@@ -17,6 +17,13 @@ fun main() {
     println("O Modulo de v1 e v3 é: "+multiplicacao)
 
 
+    // inteiro -> Int
+    // real -> Double
+    // caractere -> String
+    // logico -> Boolean
+    // (inteiro ou real ou caracter ou logico ou função ou classe) -> Any
+
+
 
 
 }
